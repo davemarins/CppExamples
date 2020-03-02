@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Es2.dir/main.cpp.o CMakeFiles/Es2.dir/Base.cpp.o CMakeFiles/Es2.dir/Directory.cpp.o CMakeFiles/Es2.dir/File.cpp.o  -o Es2 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/davide/CLionProjects/Es1/StringBuffer.cpp
+iostream
+-
+StringBuffer.h
+/home/davide/CLionProjects/Es1/StringBuffer.h
+
+/home/davide/CLionProjects/Es1/StringBuffer.h
+
+/home/davide/CLionProjects/Es1/main.cpp
+iostream
+-
+StringBuffer.h
+/home/davide/CLionProjects/Es1/StringBuffer.h
+
